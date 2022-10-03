@@ -23,3 +23,9 @@ catch(e){
 
 }
 console.log(validaArray([1,2,3,4,5],5));
+/* Tente:
+console.log(validaArray([],5));
+console.log(validaArray([],'a'));
+console.log(validaArray());
+console.log(validaArray(5,5));
+*/
